@@ -20,7 +20,9 @@ I'm open to collaborations and invite you to contact me via email to explore pot
 
 ## About My Advisor
 
-Advisor info goes here.
+[SAIPH SAVAGE](https://www.khoury.northeastern.edu/people/saiph-savage/) - Computer Science, Northeastern University
+
+Primary areas of research: Artificial intelligence, Human-computer interaction, Data science, Network science, Machine learning.
 
 ## About My Project
 
