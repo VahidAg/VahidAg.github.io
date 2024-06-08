@@ -26,7 +26,7 @@ Primary areas of research: Artificial intelligence, Human-computer interaction, 
 
 ## About My Project
 
-The project will focus on collaborating with AI specialists to design and implement tools aimed at enhancing worker productivity and job satisfaction. Additionally, it will involve conducting research to understand the specific needs and challenges faced by workers in diverse industries. Prototyping and testing AI solutions we will prioritize ethical considerations and the well-being of workers.As part of this initiative, I will be working with the Global Partnership on AI [(GPAI)] (https://gpai.ai/) within their student community.
+The project will focus on collaborating with AI specialists to design and implement tools aimed at enhancing worker productivity and job satisfaction. Additionally, it will involve conducting research to understand the specific needs and challenges faced by workers in diverse industries. Prototyping and testing AI solutions we will prioritize ethical considerations and the well-being of workers.As part of this initiative, I will be working with the Global Partnership on AI [GPAI] (https://gpai.ai/) within their student community.
 
 In terms of educational outreach, the project will aim to organize and lead mini academic events to educate workers about AI fundamentals. It will also involve developing clear and engaging educational materials that demystify AI technologies and their applications in the workplace. Facilitating discussions and workshops that will encourage workers to explore how AI can be used responsibly and beneficially in their daily tasks.
 
