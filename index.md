@@ -26,9 +26,9 @@ Primary areas of research: Artificial intelligence, Human-computer interaction, 
 
 ## About My Project
 
-The project focuses on collaborating with AI specialists to design and implement tools aimed at enhancing worker productivity and job satisfaction. Additionally, it involves conducting research to understand the specific needs and challenges faced by workers in diverse industries. Prototyping and testing AI solutions prioritize ethical considerations and the well-being of workers.
+The project will focus on collaborating with AI specialists to design and implement tools aimed at enhancing worker productivity and job satisfaction. Additionally, it will involve conducting research to understand the specific needs and challenges faced by workers in diverse industries. Prototyping and testing AI solutions we will prioritize ethical considerations and the well-being of workers.
 
-In terms of educational outreach, the project aims to organize and lead mini academic events to educate workers about AI fundamentals. It also involves developing clear and engaging educational materials that demystify AI technologies and their applications in the workplace. Facilitating discussions and workshops encourages workers to explore how AI can be used responsibly and beneficially in their daily tasks.
+In terms of educational outreach, the project will aim to organize and lead mini academic events to educate workers about AI fundamentals. It will also involve developing clear and engaging educational materials that demystify AI technologies and their applications in the workplace. Facilitating discussions and workshops that will encourage workers to explore how AI can be used responsibly and beneficially in their daily tasks.
 
 [My Final Report](files/finalreport.pdf)
 
