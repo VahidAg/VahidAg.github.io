@@ -30,7 +30,7 @@ The project will focus on collaborating with AI specialists to design and implem
 
 In terms of educational outreach, the project will aim to organize and lead mini academic events to educate workers about AI fundamentals. It will also involve developing clear and engaging educational materials that demystify AI technologies and their applications in the workplace. Facilitating discussions and workshops that will encourage workers to explore how AI can be used responsibly and beneficially in their daily tasks.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/DREAM_Fellowship_Final_Report_24.pdf)
 
 ## My Blog
 
